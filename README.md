@@ -109,22 +109,139 @@ SECCIÓN 2–2 Carga eléctrica
 
 2. ¿Cuál es la carga en coulombs del núcleo de un átomo de cloro?
 
-![Uploading Cap2Eje2.jpg…]()
+![Cap2Eje2](https://user-images.githubusercontent.com/105675013/170355847-f838e1ae-e587-4bbe-a03c-1a992ef868aa.jpg)
 
 4. ¿Cuántos electrones se requieren para producir 80 mC (microcoulombs) de carga?
 
-![Uploading Cap2Eje4.jpg…]()
+![Cap2Eje4](https://user-images.githubusercontent.com/105675013/170355903-5da5e013-75cc-45be-828d-5ed2e4f7ab62.jpg)
 
+SECCIÓN 2–3 Voltaje, corriente y resistencia
 
+6. Se utilizan quinientos joules de energía para mover 100 C de carga por un resistor. ¿Cuál es el voltaje a través del resistor?
 
+![Cap2Eje6](https://user-images.githubusercontent.com/105675013/170355991-fed69f32-6f08-4bde-be82-b00ed68d76a8.jpg)
 
+8. ¿Cuánta energía utiliza una batería de 12 V para mover 2.5 C por un circuito?
 
+![Cap2Eje8](https://user-images.githubusercontent.com/105675013/170356041-ca593cf9-394c-4583-8e5b-a4128d63556f.jpg)
 
+10. Determine la corriente en cada uno de los siguientes casos:
 
+![Cap2Eje10](https://user-images.githubusercontent.com/105675013/170356120-2521eaaf-7a55-465f-a362-f9014320d6dd.jpg)
 
+12. ¿Cuánto tiempo requieren 10 C para fluir más allá de un punto si la corriente es de 5 A?
 
+![Cap2Eje12](https://user-images.githubusercontent.com/105675013/170356192-96fabd25-c7cf-4f27-9d3b-fff3426a49f6.jpg)
 
+14. 5.74×〖10〗^14  electrones fluyen por un alambre en 250 ms. ¿Cuál es la corriente en amperes?
 
+![Cap2Eje14](https://user-images.githubusercontent.com/105675013/170356251-3bfdeddc-ca06-4640-b143-d702e49148c0.jpg)
 
+16. Encuentre la resistencia(R) correspondiente a las siguientes conductancias (G):
 
+![Cap2Eje16](https://user-images.githubusercontent.com/105675013/170356355-414f525c-e6d8-41d6-9772-ea4da7447900.jpg)
+
+SECCIÓN 2–4 Fuentes de voltaje y de corriente
+
+18. ¿En qué principio se basan los generadores eléctricos?
+
+R:Por la inducción electromagnética
+
+20. Cierta fuente de corriente proporciona 100 mA a 1 kΩ de carga. Si la resistencia disminuye a 500 , ¿Cuál es la corriente en la carga?
+
+![Cap2Eje20](https://user-images.githubusercontent.com/105675013/170356583-4d62c791-6e6b-4054-afd1-8071b93a6049.jpg)
+
+SECCIÓN 2–5 Resistores
+
+22. Encuentre las resistencias mínima y máxima dentro de los límites de tolerancia para cada resistor del problema 21.
+
+![Cap2Eje22](https://user-images.githubusercontent.com/105675013/170356703-918025d4-46de-4261-8410-26edf79b0da9.jpg)
+
+24. Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 4 bandas:
+
+![Cap2Eje24](https://user-images.githubusercontent.com/105675013/170356765-7576385e-778a-44f6-bd73-482bb826ec3e.jpg)
+
+26. Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 5 bandas:
+
+![Cap2Eje26](https://user-images.githubusercontent.com/105675013/170357033-a067614b-f2f4-43dc-b5da-4b5405606252.jpg)
+
+28. El contacto ajustable de un potenciómetro lineal se coloca en el centro mecánico de su ajuste. Si la resistencia total es de 1000Ω, ¿cuál es la resistencia entre cada terminal y el contacto ajustable?
+
+R= 500 Ω en cada terminal ya que el contacto ajustable de un potenciómetro lineal se coloca en el centro
+
+30. Determine la resistencia y la tolerancia de cada resistor rotulado como sigue:
+
+![Cap2Eje30](https://user-images.githubusercontent.com/105675013/170357145-7b097cd9-264b-4d30-b3fb-5a062118f18b.jpg)
+
+SECCIÓN 2–6 El circuito eléctrico
+
+32. Con el interruptor en una u otra posición, trace de nuevo el circuito de la figura 2-69(d) con un fusible conectado para proteger el circuito contra corriente excesiva.
+
+![Cap2Eje32](https://user-images.githubusercontent.com/105675013/170357217-efade300-a637-4e7e-a3c2-92ba1e227464.jpg)
+
+34. ¿A través de que resistor de la figura 2-70 siempre hay corriente, sin importar la posición de los interruptores?
+
+![Cap2Eje34](https://user-images.githubusercontent.com/105675013/170357416-f9379a09-4ea2-4261-9de3-af93c68559d4.jpg)
+
+R: En el resistor 5 ya siempre va a mantener corriente sin importar la posición del interruptor.
+
+36. Las diferentes secciones de un sistema estereofónico están representadas por los bloques que aparecen en la figura 2-71. Muestre cómo se puede utilizar un solo interruptor para conectar el fonógrafo, el reproductor de discos compactos, la casetera, el sintonizador de AM, o el sintonizador de FM al amplificador mediante una sola perilla de control. En un momento dado, solamente una sección puede ser conectada al amplificador.
+
+![Cap2Eje36](https://user-images.githubusercontent.com/105675013/170357555-b93a77dd-bcd5-49d0-9781-eb54150c7781.jpg)
+
+R: Se utilizaría un interruptor rotatorio para 5 secciones conectadas desde el amplificador a las demás terminales.
+
+SECCIÓN 2–7 Mediciones de circuito básicas
+
+38. Explique cómo mediría la resistencia de R2 en la figura 2-72.
+
+![Cap2Eje38](https://user-images.githubusercontent.com/105675013/170357754-b388971b-c0f3-4dd0-8636-6d878edc217c.jpg)
+
+R: Se desconectara la fuente de energía del circuito y el medidor se colocara en las terminales de R2.
+
+40. En la figura 2-73, indique cómo se conecta un amperímetro para medir la corriente que sale de la fuente de voltaje sin importar la posición del interruptor.
+
+![Cap2Eje40](https://user-images.githubusercontent.com/105675013/170357829-15e04488-4ef3-48eb-8097-18b458c26579.jpg)
+
+R: El amperímetro se colocara en terminales positivo con positivo en batería, luego el negativo del primero se coloca a l mitad de la primera salida y la segunda resistencia.
+
+42. Muestre la colocación apropiada de los voltímetros para medir el voltaje a través de cada resistor presente en la figura 2-70.
+
+R: Se tendrá que colocar el voltímetro en paralelo para el cálculo de cada resistor.
+
+44. ¿Cuánta resistencia está midiendo el ohmmetro de la figura 2-75?
+
+![Cap2Eje44](https://user-images.githubusercontent.com/105675013/170358004-3360e791-e372-4f79-aa5b-782a9ef9e023.jpg)
+
+R: 10k Ω
+
+46. ¿Cuál es la resolución máxima de un multímetro digital de 4 1/2 dígitos?
+
+R: Mostrará hasta 19.999 recuentos de resolución.
+
+4.	VIDEO
+
+https://youtu.be/mQTotQJ7FYA
+
+5. CONCLUSIONES
+
+Tras el análisis de lo antes propuesto, podemos deducir que las corrientes eléctricas se basan en los electrones desprendidos libremente de los átomos lo cuales crean electricidad, existen distintas formas de poder calcular, ya sea la intensidad de corriente, la resistividad de un elemento, igualmente su conductividad de una forma más rudimentaria mediante fórmulas, como por ejemplo la ley de Ohm, y datos ya preestablecidos, así mismo existen herramientas las cuales nos facilitan el labor.
+
+Así mismo se ha comprendido la funcionalidad de los resistores, de igual manera, como poder identificar sus valores y como utilizarlos en diagramas de flujos de corriente y voltaje para una mayor efectividad a la hora de su utilización.
+
+6.	BIBLIOGRAFÍA
+
+Hernández, J. G. G. (2017). Modelo mnemotécnico para la enseñanza del código de colores en resistores eléctricos. Revista Iberoamericana de Producción Académica y Gestión Educativa, 4(7).
+
+Juárez, A. R. R. Ley de Ohm.
+
+Mantilla Quijano, G., & González, H. (1977). Ley de Ohm (aplicación).
+
+Rodriguez, P. (2001). Introducción a las mediciones eléctricas. TECNIBOOK EDICIONES.
+
+Floyd, T. L., Salas, R. N., González, L. M. O., & López, G. P. (2007). Principios de circuitos eléctricos. Pearson Educación.
+
+7.	RUBRICA
+
+![Rubrica](https://user-images.githubusercontent.com/105675013/170358464-92beb928-8bf9-41b4-a314-d54fc7bbe510.jpg)
 
